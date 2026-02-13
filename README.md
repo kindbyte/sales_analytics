@@ -44,8 +44,3 @@ Analyze customer behavior and product sales, including:
 - `03_top_products_by_quantity.sql` — top products by quantity sold  
 - `04_product_monthly_frequency.sql` — monthly sales frequency by product  
 
-## 📌 Notes
-
-- `SERIAL` is used for auto-incrementing primary keys  
-- All data is synthetic and for learning/demo purposes  
-- This project is extendable to Power BI or other BI tools
